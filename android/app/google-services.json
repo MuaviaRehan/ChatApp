@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "739804141924",
+    "firebase_url": "https://bucket-list-d4f3d-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "bucket-list-d4f3d",
+    "storage_bucket": "bucket-list-d4f3d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:739804141924:android:a7854c5834e037ddfe0271",
+        "android_client_info": {
+          "package_name": "com.example.chatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrkKBnt7U_4sUc5a8ey2vgaca8mSpUn8k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
